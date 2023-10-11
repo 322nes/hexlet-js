@@ -1,3 +1,5 @@
+//До нового года осталось..
+
 const nowYear = new Date().getFullYear();
 const nowNextYear = new Date(`Jan 01 ${ nowYear + 1 } 00:00:00`).getFullYear();
 
