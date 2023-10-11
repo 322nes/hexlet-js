@@ -1,3 +1,5 @@
+//Сплюсовать все объекты для диапозона first and second.
+
 import _ from 'lodash';
 
 function summa (first, second) {
