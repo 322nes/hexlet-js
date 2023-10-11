@@ -12,4 +12,5 @@ const sequenceSum = (begin, end) => {
 };
 
 
+
 console.log(sequenceSum(2, 6));
